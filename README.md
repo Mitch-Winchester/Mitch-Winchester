@@ -48,7 +48,7 @@
   <h2>Tools</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,grafana,kubernetes,prometheus,vscode" />
+      <img src="https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,gitlab,grafana,kubernetes,prometheus,vscode" />
     </a>
   </p>
 </div>
